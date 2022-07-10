@@ -1,0 +1,38 @@
+body {
+    background: antiquewhite;
+}
+
+h1 {
+    background: yellow;
+    color: black;
+    text-align: center;
+}
+
+h2, a {
+    background: blue;
+    color: white;
+    text-decoration: none;
+    width: 55px;
+}
+
+.homer {
+    width: 75px;
+}
+
+p {
+    background: lime; color: darkred;
+}
+
+ul {
+    background: navajowhite;
+    color: blue;
+}
+
+img {
+    width: 200px;
+}
+
+.family {
+    display: block;
+    margin: 0 auto;
+}
